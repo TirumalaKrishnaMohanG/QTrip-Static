@@ -4,8 +4,8 @@
 <h4>Following modules are involved on QTrip static portal</h4>
 <ul>
   <li>Home Page - Which allows the users to choose the different destinations options</li>
-  <li>After click any page / option from above, We can choose the different acitivities on the particular city.</li>
-  <li>Click any above, You will be redirected to the status page. That involves the availbility to choose the acitivity.</li>
+  <li>Adventures Page - After click any page / option from above, We can choose the different acitivities on the particular city.</li>
+  <li>Resort Page - Click any above, You will be redirected to the status page. That involves the availbility to choose the acitivity.</li>
 </ul>
 <hr>
 <h4> The pre-requsite to build and run the portal </h4>
